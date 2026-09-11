@@ -1,0 +1,56 @@
+{
+  "P1001": {
+    "name": "TechZone Wireless Headphones",
+    "category": "Audio",
+    "price": 2500,
+    "currency": "EGP",
+    "description": "Wireless over-ear headphones with active noise cancellation.",
+    "stock": 15,
+    "warranty_months": 12
+  },
+  "P1002": {
+    "name": "TechZone Smart Watch S2",
+    "category": "Wearables",
+    "price": 4200,
+    "currency": "EGP",
+    "description": "Smart watch with heart-rate tracking, GPS, and 7-day battery life.",
+    "stock": 8,
+    "warranty_months": 12
+  },
+  "P1003": {
+    "name": "TechZone Mechanical Keyboard K1",
+    "category": "Accessories",
+    "price": 1800,
+    "currency": "EGP",
+    "description": "RGB mechanical keyboard with hot-swappable switches.",
+    "stock": 0,
+    "warranty_months": 12
+  },
+  "P1004": {
+    "name": "TechZone Wireless Mouse M2",
+    "category": "Accessories",
+    "price": 950,
+    "currency": "EGP",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "stock": 24,
+    "warranty_months": 6
+  },
+  "P1005": {
+    "name": "TechZone USB-C Hub H5",
+    "category": "Accessories",
+    "price": 1200,
+    "currency": "EGP",
+    "description": "USB-C hub with HDMI, USB 3.0, and SD card ports.",
+    "stock": 11,
+    "warranty_months": 6
+  },
+  "P1006": {
+    "name": "TechZone Laptop Stand L1",
+    "category": "Office",
+    "price": 750,
+    "currency": "EGP",
+    "description": "Adjustable aluminum laptop stand.",
+    "stock": 31,
+    "warranty_months": 3
+  }
+}

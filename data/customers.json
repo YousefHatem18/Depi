@@ -1,0 +1,22 @@
+{
+  "C001": {
+    "name": "Ahmed Hassan",
+    "email": "ahmed@example.com",
+    "phone": "01000000001"
+  },
+  "C002": {
+    "name": "Mariam Ali",
+    "email": "mariam@example.com",
+    "phone": "01000000002"
+  },
+  "C003": {
+    "name": "Omar Mohamed",
+    "email": "omar@example.com",
+    "phone": "01000000003"
+  },
+  "C004": {
+    "name": "Sara Khaled",
+    "email": "sara@example.com",
+    "phone": "01000000004"
+  }
+}
