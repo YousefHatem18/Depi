@@ -1,7 +1,6 @@
 import json
 import os
 import gradio as gr
-import json
 
 from dotenv import load_dotenv
 from openai import OpenAI
