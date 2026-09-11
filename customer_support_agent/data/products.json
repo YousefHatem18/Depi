@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "PRD-1001",
+    "name": "NovaBeat Wireless Headphones",
+    "category": "Headphones",
+    "price": 129.99,
+    "description": "Over-ear wireless headphones with active noise cancellation, 30-hour battery life, and quick charge (10 min = 5 hours playback).",
+    "warranty_months": 12,
+    "stock": 42
+  },
+  {
+    "product_id": "PRD-1002",
+    "name": "NovaBuds Pro Earbuds",
+    "category": "Earbuds",
+    "price": 89.99,
+    "description": "True wireless earbuds with adaptive ANC, IPX4 water resistance, and wireless charging case.",
+    "warranty_months": 12,
+    "stock": 0
+  },
+  {
+    "product_id": "PRD-1003",
+    "name": "NovaBoom Portable Speaker",
+    "category": "Speakers",
+    "price": 59.99,
+    "description": "Compact Bluetooth speaker with 12-hour playback, IP67 rugged design, and built-in mic for calls.",
+    "warranty_months": 6,
+    "stock": 15
+  },
+  {
+    "product_id": "PRD-1004",
+    "name": "NovaBeat Studio Headphones",
+    "category": "Headphones",
+    "price": 199.99,
+    "description": "Studio-grade over-ear headphones for professional mixing and mastering, with detachable cable and flat frequency response.",
+    "warranty_months": 24,
+    "stock": 8
+  }
+]

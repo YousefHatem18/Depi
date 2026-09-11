@@ -1,0 +1,42 @@
+[
+  {
+    "order_id": "ORD-20458",
+    "customer_id": "CUST-3391",
+    "product_id": "PRD-1001",
+    "quantity": 1,
+    "amount": 129.99,
+    "order_date": "2026-08-15",
+    "delivery_date": "2026-08-20",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD-20501",
+    "customer_id": "CUST-3391",
+    "product_id": "PRD-1003",
+    "quantity": 1,
+    "amount": 59.99,
+    "order_date": "2026-09-01",
+    "delivery_date": null,
+    "status": "In Transit"
+  },
+  {
+    "order_id": "ORD-19875",
+    "customer_id": "CUST-2210",
+    "product_id": "PRD-1002",
+    "quantity": 2,
+    "amount": 179.98,
+    "order_date": "2026-06-10",
+    "delivery_date": "2026-06-15",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD-20602",
+    "customer_id": "CUST-4477",
+    "product_id": "PRD-1004",
+    "quantity": 1,
+    "amount": 199.99,
+    "order_date": "2026-09-05",
+    "delivery_date": "2026-09-08",
+    "status": "Delivered"
+  }
+]
