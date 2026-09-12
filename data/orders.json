@@ -1,0 +1,74 @@
+{
+  "ORD1001": {
+    "customer_id": "C001",
+    "product_id": "P1001",
+    "quantity": 1,
+    "total_price": 2500,
+    "currency": "EGP",
+    "order_date": "2026-09-02",
+    "estimated_delivery": "2026-09-06",
+    "status": "Delivered",
+    "delivered_date": "2026-09-06",
+    "payment_status": "Paid"
+  },
+  "ORD1002": {
+    "customer_id": "C002",
+    "product_id": "P1002",
+    "quantity": 1,
+    "total_price": 4200,
+    "currency": "EGP",
+    "order_date": "2026-09-08",
+    "estimated_delivery": "2026-09-12",
+    "status": "Shipped",
+    "delivered_date": null,
+    "payment_status": "Paid"
+  },
+  "ORD1003": {
+    "customer_id": "C003",
+    "product_id": "P1003",
+    "quantity": 1,
+    "total_price": 1800,
+    "currency": "EGP",
+    "order_date": "2026-08-28",
+    "estimated_delivery": "2026-09-02",
+    "status": "Delivered",
+    "delivered_date": "2026-09-02",
+    "payment_status": "Paid"
+  },
+  "ORD1004": {
+    "customer_id": "C004",
+    "product_id": "P1004",
+    "quantity": 2,
+    "total_price": 1900,
+    "currency": "EGP",
+    "order_date": "2026-09-09",
+    "estimated_delivery": "2026-09-13",
+    "status": "Processing",
+    "delivered_date": null,
+    "payment_status": "Paid"
+  },
+  "ORD1005": {
+    "customer_id": "C001",
+    "product_id": "P1005",
+    "quantity": 1,
+    "total_price": 1200,
+    "currency": "EGP",
+    "order_date": "2026-08-15",
+    "estimated_delivery": "2026-08-19",
+    "status": "Delivered",
+    "delivered_date": "2026-08-19",
+    "payment_status": "Paid"
+  },
+  "ORD1006": {
+    "customer_id": "C002",
+    "product_id": "P1006",
+    "quantity": 1,
+    "total_price": 750,
+    "currency": "EGP",
+    "order_date": "2026-08-20",
+    "estimated_delivery": "2026-08-24",
+    "status": "Cancelled",
+    "delivered_date": null,
+    "payment_status": "Refunded"
+  }
+}

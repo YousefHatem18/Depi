@@ -1,0 +1,36 @@
+{
+  "refund": {
+    "name": "Refund Policy",
+    "rules": [
+      "Customers can request a refund within 14 days of delivery.",
+      "Damaged or defective products are eligible for a refund within the warranty period.",
+      "The product should normally be returned before the refund is completed.",
+      "Refunds are issued to the original payment method.",
+      "Cancelled orders that were already paid for are eligible for a refund."
+    ]
+  },
+  "replacement": {
+    "name": "Replacement Policy",
+    "rules": [
+      "Defective products may be replaced within the warranty period.",
+      "Replacement depends on product availability.",
+      "Customers should provide a description of the defect."
+    ]
+  },
+  "delivery": {
+    "name": "Delivery Policy",
+    "rules": [
+      "Standard delivery normally takes 2-5 business days.",
+      "Customers can contact support if an order is significantly delayed.",
+      "The estimated delivery date is shown in the order record."
+    ]
+  },
+  "warranty": {
+    "name": "Warranty Policy",
+    "rules": [
+      "Warranty duration depends on the product.",
+      "Warranty covers manufacturing defects.",
+      "Physical damage caused by misuse is not covered."
+    ]
+  }
+}
